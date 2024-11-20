@@ -1,5 +1,1 @@
-SpringBoot 프로젝트 테스트
- - JDK 17 활용
- - Mybatis 연결
- - JSP 테스트 
- - Gradle. yml 활용 해서 처리
+SpringBoot 프로젝트 생성 테스트
